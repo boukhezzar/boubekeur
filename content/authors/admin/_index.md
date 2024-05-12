@@ -3,7 +3,7 @@
 title: Giacomo Dalla Chiara
 
 # Name pronunciation (optional)
-name_pronunciation: Giacomo Dalla Chiara
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Giacomo
@@ -17,11 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher transportation science
+role: Researcher in transportation science
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Washington
+  - name: Urban Freight Lab
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
