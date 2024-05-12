@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher in transportation science
+role: Author in transport science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,22 +30,23 @@ bio: My research interests include urban logistics, behavioral mobility, transpo
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Logistics
+  - Multimodal logistics
+  - Behavioral mobility
+  - Transportation infrastructure
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Engineering Systems Design
+      institution: Singapore University of Technology & Design
+      year: 2018
+    - course: MSc in Statistics
+      institution: Swiss Federal Institute of Technology (ETH Zurich)
+      year: 2013
+    - course: BSc in Economics & Business
+      institution: Libera Universitá Studi Sociali Guido Carli (LUISS)
+      year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,22 +95,13 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:giacomod@euw.edu'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com.sg/citations?user=K2gZyBgAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/giacomodc/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -121,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Work in Progress!
 {style="text-align: justify;"}
