@@ -11,6 +11,7 @@ publishDate: '2024-05-20T06:49:20.269744Z'
 publication_types:
 - article-journal
 publication: '*Scientific Reports*'
+url_video: 'https://www.youtube.com/watch?v=f0wl411pDwM'
 doi: 10.1038/s41598-022-23987-z
 abstract: Delivery vehicle drivers are experiencing increasing challenges in finding
   available curb space to park in urban areas, which increases instances of cruising
