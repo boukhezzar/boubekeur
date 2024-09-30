@@ -5,6 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin  
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -36,12 +42,6 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,10 +31,9 @@ bio: My research interests include urban logistics, behavioral mobility, transpo
 # Interests to show in About widget
 interests:
   - Urban Logistics
-  - Multimodal logistics
+  - Multimodal transportation
   - Behavioral mobility
-  - Transportation infrastructure
-
+  - Urban freight planning
 # Education to show in About widget
 education:
   courses:
