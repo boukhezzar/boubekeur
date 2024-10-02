@@ -40,11 +40,19 @@ url_video: ""
 slides: ""
 ---
 
-Trying here to add a video:
+Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -1
+
+{{< video src="/openpark_vid_low.mp4" type="video/mp4" preload="auto" >}}
+
+Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -2
+
+{{< video src="/openpark_vid_low.mp4" controls="yes" >}}
+
+Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -3
 
 {{< video src="openpark_vid_low.mp4" controls="yes" >}}
 
-and this is another trial here below:
+Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -4
 
 {{< youtube f0wl411pDwM >}}
 
