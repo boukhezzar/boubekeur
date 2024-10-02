@@ -40,7 +40,11 @@ url_video: ""
 slides: ""
 ---
 
+Trying here to add a video:
+
 {{< video src="openpark_vid_low.mp4" controls="yes" >}}
+
+and this is another trial here below:
 
 {{< youtube f0wl411pDwM >}}
 
