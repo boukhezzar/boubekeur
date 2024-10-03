@@ -40,20 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -1
-
-{{< video src="/openpark_vid_low.mp4" type="video/mp4" preload="auto" >}}
-
-Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -2
-
-{{< video src="/openpark_vid_low.mp4" controls="yes" >}}
-
-Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -3
-
-{{< video src="openpark_vid_low.mp4" controls="yes" >}}
-
-Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. Trying here to add a video. -4
-
-{{< youtube f0wl411pDwM >}}
-
 AAA Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
