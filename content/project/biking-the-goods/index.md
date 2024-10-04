@@ -47,6 +47,13 @@ Conventionally, the **distribution of goods and services** in North American cit
 
 **Cities play a crucial role** in reducing these barriers and creating a leveled playing field where cargo e-bikes can be essential to urban logistics systems.
 
+In collaboration with [PeopleForBikes]( https://www.peopleforbikes.org/), we designed the Biking the Goods guide to 
+1. inform urban planners about what are cargo e-bikes
+2. identify case studies of successful cargo e-bike deployments
+3. identify actionable strategies cities can take to encourage their adoption while guaranteeing safety for all road users
+
+You can download the white paper [HERE]( https://doi.org/10.6069/REXD-W642)
+
 
 
 
