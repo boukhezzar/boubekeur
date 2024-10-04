@@ -1,10 +1,12 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "OpenPark: a delivery driver parking information system"
-summary: a project
+title: OpenPark
+summary: A parking availability information system for delivery drivers
 authors: []
-tags: []
+tags:
+  - curb management
+  - last-mile delivery 
 categories: []
 date: 2024-09-30T17:43:37Z
 
