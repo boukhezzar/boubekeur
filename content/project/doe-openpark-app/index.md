@@ -37,8 +37,11 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+# to add a youtube video: {{< youtube f0wl411pDwM >}}
+# to add a video from the media library: {{< video src="openpark_vid_low.mp4" controls="yes" >}}
 slides: ""
 ---
+
 
 {{< video src="openpark_vid_low.mp4" controls="yes" >}}
 
