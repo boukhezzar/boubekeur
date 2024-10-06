@@ -53,7 +53,9 @@ AAA Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 
 [A publication]({{< relref "/publication/dallachiara-2022-app" >}})
 
-{{< cite page="/publication/dallachiara-2022-app" >}}
+{{< ref page="/publication/dallachiara-2022-app" >}}
+
+
 
 
 
