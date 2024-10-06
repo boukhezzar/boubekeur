@@ -19,7 +19,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -48,3 +48,7 @@ AAA Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 
 
 {{< youtube f0wl411pDwM >}}
+
+#### Publications
+
+{{< cite page="/publication/dallachiara-2022-app" view="citation" >}}
