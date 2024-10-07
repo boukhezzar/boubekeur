@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: Community micro-pantries
-summary: Improving food access and reducing food waste leveraging connected community micro-pantries
+summary: Improving food access and reducing food waste through community micro-pantries
 authors: []
 tags: []
 categories: []
