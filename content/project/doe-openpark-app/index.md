@@ -1,6 +1,4 @@
 ---
-# Documentation: https://docs.hugoblox.com/managing-content/
-
 title: OpenPark
 summary: A parking availability information system for delivery drivers
 authors: []
@@ -51,7 +49,6 @@ AAA Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 
 [A publication]({{< relref "/publication/dallachiara-2022-app" >}})
 
-{{< cite page="/publication/dallachiara-2022-app" view="citation" >}}
 
 
 
