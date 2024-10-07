@@ -12,5 +12,7 @@ publication_types:
 - report
 doi: https://doi.org/10.6069/REXD-W642
 tags:
-- cargo bike
+ - cargo bike
+projects:
+ - biking-the-goods
 ---
