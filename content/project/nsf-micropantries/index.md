@@ -22,14 +22,14 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
- - name: Follow
-   url: https://twitter.com
-   icon_pack: fab
-   icon: twitter
+# - name: Follow
+#   url: https://twitter.com
+#  icon_pack: fab
+#   icon: twitter
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://drive.google.com/file/d/1-s4ATt-O0qHDr_X3z21X6U14K4idgtOK/view?usp=sharing"
+url_slides: https://drive.google.com/file/d/1-s4ATt-O0qHDr_X3z21X6U14K4idgtOK/view?usp=sharing
 url_video: ""
 
 # Slides (optional).
