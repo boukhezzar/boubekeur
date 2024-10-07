@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: Biking the Goods
-summary: How North American Cities can Prepare for and Promote Large-Scale Adoption of Cargo e-Bikes
+summary: The role of cities in promoting cargo bike adoption
 authors: []
 tags:
   - cargo bike

@@ -20,4 +20,7 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1016/j.tra.2022.103562 https://linkinghub.elsevier.com/retrieve/pii/S0965856422003135
+projects:
+ - cargobike-infra
+
 ---
