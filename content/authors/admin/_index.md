@@ -68,15 +68,15 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_GiacomoDC.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a research scientist at the University of Washington [Urban Freight Lab](https://urbanfreightlab.com/) and an affiliate instructor at the [Supply Chain Transportation and Logistics MSc program](https://www.supply-chain-transportation.uw.edu/). My research is focused on studying human behaviours in urban logistic systems, which can be applied to urban transport planning, multimodal transportation, freight operations, infrastructure management, and food systems.
+I am a research scientist at the University of Washington [Urban Freight Lab](https://urbanfreightlab.com/) and an affiliate instructor at the [Supply Chain Transportation and Logistics MSc program](https://www.supply-chain-transportation.uw.edu/). My research is focused on human behaviors in urban logistic systems, which can be applied to urban transport planning, multimodal transportation, freight operations, infrastructure management, and food systems.
 
-I completed my PhD in Engineering Systems Design at the [Singapore University of Technology and Design](https://esd.sutd.edu.sg/) and spent a year as a visiting researcher at the MIT [Intelligent Transportation System Lab](https://www.its.mit.edu/). I completed an MSC in Computational Statistics ([ETH Zurich](https://math.ethz.ch/sfs)) and a BSc in Economics and Business ([LUISS](https://economiaefinanza.luiss.it/)).
+I completed my PhD in Engineering Systems Design in 2018 at the [Singapore University of Technology and Design](https://esd.sutd.edu.sg/) and spent a year as a visiting researcher at the MIT [Intelligent Transportation System Lab](https://www.its.mit.edu/). I hold an MSC in Computational Statistics ([ETH Zurich](https://math.ethz.ch/sfs)) and a BSc in Economics and Business ([LUISS](https://economiaefinanza.luiss.it/)).
 
 
 

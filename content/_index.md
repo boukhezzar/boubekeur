@@ -30,10 +30,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: cargo bike
+          tag: cargo bike
+        - name: last mile
+          tag: last mile
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
