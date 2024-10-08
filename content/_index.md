@@ -42,6 +42,7 @@ sections:
       flip_alt_rows: false
   # PUBLICATIONS
   - block: collection
+    id: publications
     content:
       title: Publications
       text: |-
