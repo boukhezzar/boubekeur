@@ -56,7 +56,8 @@ sections:
     design:
       columns: '2'
       view: citation         
-  - block: hero
+  # NOT SURE WHATS THIS.... <--
+- block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
@@ -87,7 +88,8 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: collection
+  # POSTS
+- block: collection
     id: posts
     content:
       title: Recent Posts
@@ -114,7 +116,8 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: markdown
+  # MEDIA GALLERY
+- block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -122,30 +125,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -259,5 +238,30 @@ sections:
 #      columns: '2'
 #      view: card
 
+
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      columns: '2'
+#      view: compact
 
 ---
