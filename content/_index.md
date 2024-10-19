@@ -57,7 +57,7 @@ sections:
       columns: '2'
       view: citation         
   # NOT SURE WHATS THIS.... <--
-- block: hero
+  - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
@@ -89,7 +89,7 @@ sections:
         gradient_start: '#004ba0'
         text_color_light: true
   # POSTS
-- block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -117,7 +117,7 @@ sections:
       view: compact
       columns: '2'
   # MEDIA GALLERY
-- block: markdown
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -248,7 +248,8 @@ sections:
 #    design:
 #      columns: '2'
 #      view: citation
-#  - block: collection
+
+# - block: collection
 #    id: talks
 #    content:
 #      title: Recent & Upcoming Talks
