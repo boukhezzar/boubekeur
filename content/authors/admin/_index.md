@@ -74,7 +74,7 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at the University of Washington [Urban Freight Lab](https://urbanfreightlab.com/) and an affiliate instructor at the [Supply Chain Transportation and Logistics MSc program](https://www.supply-chain-transportation.uw.edu/). My research is focused on human behaviors in urban logistic systems, which I apply to urban transport planning, multimodal transportation, freight operations, infrastructure management, and food systems.
+I am a research scientist at the University of Washington [Urban Freight Lab](https://urbanfreightlab.com/) and an affiliate instructor at the [Supply Chain Transportation and Logistics MSc program](https://www.supply-chain-transportation.uw.edu/). My research is focused on human behaviors in urban logistic systems, which I apply to urban transport planning, multimodal transportation, freight operations, infrastructure management, and food systems, among others.
 
 I completed my PhD in Engineering Systems Design in 2018 at the [Singapore University of Technology and Design](https://esd.sutd.edu.sg/) and spent a year as a visiting researcher at the [MIT Intelligent Transportation System Lab](https://www.its.mit.edu/). I hold an MSC in Computational Statistics ([ETH Zurich](https://math.ethz.ch/sfs)) and a BSc in Economics and Business ([LUISS](https://economiaefinanza.luiss.it/)).
 
