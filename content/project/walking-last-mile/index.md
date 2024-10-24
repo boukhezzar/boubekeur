@@ -4,7 +4,9 @@
 title: The role of walking in the last-mile
 summary: ""
 authors: []
-tags: []
+tags:
+ - last mile
+ - walking
 categories: []
 date: 2024-10-24T02:11:27Z
 
