@@ -4,7 +4,7 @@ summary: A parking availability information system for delivery drivers
 authors: []
 tags:
   - curb management
-  - last-mile delivery 
+  - last mile 
 categories: []
 date: 2024-09-30T17:43:37Z
 

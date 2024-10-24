@@ -4,7 +4,8 @@
 title: Community micro-pantries
 summary: Improving food access and reducing food waste through community micro-pantries
 authors: []
-tags: []
+tags:
+ - food insecurity
 categories: []
 date: 2024-09-30T17:36:46Z
 

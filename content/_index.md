@@ -34,6 +34,10 @@ sections:
           tag: cargo bike
         - name: last mile
           tag: last mile
+        - name: food insecurity
+          tag: food insecurity
+        - name: walking
+          tag: walking
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
