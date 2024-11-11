@@ -14,8 +14,11 @@ image:
 
 ---
 
-Electric cargo cycles are often considered a viable alternative mode for delivering goods in an urban area. However, cities in the U.S. are struggling to regulate cargo cycles, with most authorities applying the same rules used for motorized vehicles or traditional bicycles. One reason is the lack of understanding of the relationship between existing regulations and transport infrastructure and the cargo cycle parking and driving behaviors.
-In this study, we analyzed a cargo cycle pilot test in Seattle and collected detailed data on the types of infrastructure used for driving and parking. GPS data were augmented by installing a video camera on the cargo cycle and recording the types of infrastructure used (distinguishing between the travel lane, bike lane, and sidewalk), the time spent on each type, and the activity performed.
+Cargo e-bikes represent an alternative mode for delivering goods in an urban area for certain sectors and context. Cities in the U.S. will see an increase in the use of electromobility for transporting goods in urban areas in the near future.
+
+However, cities in the U.S. are struggling to regulate these new vehicles, with most authorities applying the same rules used for motorized vehicles or traditional bicycles. One reason is the **lack of understanding of the relationship between existing regulations, the transport infrastructure, and the cargo e-bike parking and driving behaviors**. 
+
+In this study, we used a cargo e-bike pilot in Seattle and collected detailed data on the infrastructure used for driving and parking. GPS data were augmented by installing a video camera on the cargo cycle and recording the types of infrastructure used (distinguishing between the travel lane, bike lane, and sidewalk), the time spent on each type, and the activity performed. Random Utility Models of cargo e-bike drivers’ choice of the use of infrastructure were estimated.
 
 {{< video src="cargo-bike-infra_low.mp4" controls="yes" >}}
 
