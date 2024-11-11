@@ -1,5 +1,6 @@
 ---
 title: Example Project
+draft: true # this line hides the project page
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
