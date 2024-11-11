@@ -39,15 +39,19 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # to add a youtube video: {{< youtube f0wl411pDwM >}}
 # to add a video from the media library: {{< video src="openpark_vid_low.mp4" controls="yes" >}}
+#to add a link to a publication: [A publication]({{< relref "/publication/dallachiara-2022-app" >}})
 slides: ""
 ---
 
 {{< youtube f0wl411pDwM >}}
 
-AAA Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Delivery vehicle drivers are experiencing increasing challenges in finding available curb space to park in urban areas, which increases instances of **cruising for parking and parking in unauthorized spaces**. Policies traditionally used to reduce cruising for parking for passenger vehicles, such as parking fees and congestion pricing, are ineffective at changing delivery drivers’ travel and parking behaviors. 
 
+**Intelligent parking systems** that use real-time curb availability information to better route and park vehicles can reduce cruising for parking, but they have never been tested for delivery vehicle drivers. The current study tested whether providing real-time curb availability information to delivery drivers reduces the travel time and distance spent cruising for parking. 
 
-[A publication]({{< relref "/publication/dallachiara-2022-app" >}})
+![screen reader text](openpark_sensors.jpg "Curb proximity sensors were deployed in a 10-block study area in the Belltown neighborhood of Seattle")
+
+A curb parking information system deployed in a study area in Seattle (WA), displayed real-time curb availabilities on a mobile app called **OpenPark**. A controlled experiment assigned drivers’ deliveries in the study area with and without access to OpenPark. The data collected showed that when OpenPark was used, drivers’ cruising for parking time significantly decreased by 27.9 percent, and their total vehicle miles traveled decreased by 4.3 percent. These results demonstrate the potential for implementing intelligent parking systems to improve the efficiency of urban logistics systems.
 
 
 
