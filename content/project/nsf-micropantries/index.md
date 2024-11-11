@@ -43,6 +43,8 @@ slides: ""
 
 Despite food being the number one material in US landfills, 13 percent of the population is food insecure. While traditional Hunger Relief Organizations (HROs) play a key role in redistributing rescued foodthey are facing increased challenges. In particular, more vulnerable populations, such as the elderly, physically disabled individuals, and households with children and employed full-time, are often not able to access HROs during limited opening hours.
 
+![screen reader text](micropantries.jpg "caption")
+
 This project proposes to pilot a **decentralized network of connected, unattended food micro-pantries** to provide real-time information on existing demand for rescued food to food donors, collect food donations at a micro-scale level across neighborhoods of the Seattle study area, and monitor food safety. Micro-pantries are an emerging community-driven concept of independent, small, unattended, open-access, and community-run food pantries and fridges that are hosted on public-right-of-way or private properties and maintained by community members and local organizations. 
 
 This project is funded by the National Science Foundation - Civic Innovation Challenge, award number 2431098, [NSF project page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431098&HistoricalAwards=false)
