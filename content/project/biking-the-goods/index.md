@@ -52,7 +52,7 @@ In collaboration with [PeopleForBikes]( https://www.peopleforbikes.org/), we des
 2. identify case studies of successful cargo e-bike deployments
 3. identify actionable strategies cities can take to encourage their adoption while guaranteeing safety for all road users
 
-You can download the white paper [HERE]( https://doi.org/10.6069/REXD-W642)
+You can download the white paper [HERE](https://doi.org/10.6069/REXD-W642)
 
 
 
