@@ -1,6 +1,6 @@
 ---
 title: SMART Grant stage 2 announcement
-subtitle: Seattle DOT awarded the US DOT SMART stage 2 GRANT
+subtitle: Seattle DOT awarded the US DOT SMART stage 2 Grant
 
 # Date published
 date: '2024-12-17'
