@@ -122,6 +122,7 @@ sections:
       columns: '2'
   # MEDIA GALLERY
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
