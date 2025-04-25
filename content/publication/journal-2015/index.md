@@ -1,16 +1,19 @@
 ---
-title: "Ultra-local model design based on real-time algebraic and derivative estimators for position control of a DC motor"
+title: "Nonlinear predictive control of a DFIG-based wind turbine for power capture optimization"
 authors:
-- Laid Sehili
+- Amer Ikhlef
+- Mouloud Kihel
 - admin
+- Abdelmalek Gueroudj
+- Nora Mansouri
 author_notes:
 - ""
 - ""
-date: "2022-10-01T00:00:00Z"
-doi: "https://doi.org/10.1007/s40313-021-00881-z"
+date: "2015-01-01T00:00:00Z"
+doi: "  https://doi.org/10.3991/ijim.v9i2.4382"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-01T00:00:00Z"
+publishDate: "2015-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,10 +21,10 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of control, automation and electrical systems, 101*"
+publication: "*International Journal of Interactive Mobile Technologies (iJIM), 9*(2)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, a remote temperature control system has been proposed. The physical system is controlled in real time through the Internet network. For educational purpose, the students use only a web browser to tune and test a PID controller via shared user interface. The PID parameters are calculated using the basic experimental Ziegler—Nichols tuning rules. After hardware and software experiment description, the remote online experiment is tested and the results are given.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

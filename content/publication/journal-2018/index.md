@@ -7,7 +7,7 @@ author_notes:
 - ""
 - ""
 date: "2018-08-01T00:00:00Z"
-doi: " https://doi.org/10.1007/s40313-021-00881-z"
+doi: "https://doi.org/10.1016/j.ijepes.2018.03.012"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-08-01T00:00:00Z"
