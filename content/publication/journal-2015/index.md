@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear predictive control of a DFIG-based wind turbine for power capture optimization"
+title: "Online Temperature Control System"
 authors:
 - Amer Ikhlef
 - Mouloud Kihel
