@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Boubekeur
+first_name: Boubekeur
+last_name: Boukhezzar
 
 # Status emoji
 status:
