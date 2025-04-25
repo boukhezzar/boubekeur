@@ -85,7 +85,7 @@ sections:
       directions: Ahmed Hamani Campus, LARC Laboratory 
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '36.3409251,'
+        latitude: '36.3409251'
         longitude: '6.6178978'  
       #contact_links:
       #  - icon: twitter
