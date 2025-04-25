@@ -74,19 +74,19 @@ sections:
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: giacomod@uw.edu
+      email: boubekeur.boukhezzar@umc.edu.dz
       address:
-        street: Wilson Ceramic Laboratory (WCL) 
-        city: Seattle
-        region: WA
-        postcode: '98195'
-        country: United States
-        country_code: US
-      directions: Urban Freight Lab, 1st floor, Room 111, 
+        street: Route de Aïn-el-Bey, (WCL) 
+        city: Constantine
+        region: Constantine
+        postcode: '25017'
+        country: Algeria
+        country_code: DZ
+      directions: Ahmed Hamani Campus, LARC Laboratory 
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '47.651672574911935'
-        longitude: '-122.3048521753502'  
+        latitude: '36.3409251,'
+        longitude: '6.6178978'  
       #contact_links:
       #  - icon: twitter
       #    icon_pack: fab
