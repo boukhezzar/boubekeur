@@ -6,7 +6,7 @@ title: Giacomo Dalla Chiara
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Giacomo
+first_name: Boubekeur
 last_name: Dalla Chiara
 
 # Status emoji
