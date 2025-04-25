@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Boubekeur
-last_name: Dalla Chiara
+last_name: Boukhezzar
 
 # Status emoji
 status:
