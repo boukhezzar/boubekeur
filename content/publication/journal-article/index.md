@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Neural Network"
 authors:
 - admin
 - Robert Ford

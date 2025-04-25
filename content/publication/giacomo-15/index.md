@@ -1,5 +1,5 @@
 ---
-title: A game of supply chains and an Urban Consolidation Center
+title: A game of djeha supply chains and an Urban Consolidation Center
 authors:
 - Giacomo Dalla Chiara
 - Lynette Cheah
