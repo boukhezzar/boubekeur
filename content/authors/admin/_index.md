@@ -22,7 +22,7 @@ role: Full Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Constantine
-  - name: Urban Freight Lab
+  - name: LARC Laboratory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
