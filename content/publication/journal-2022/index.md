@@ -1,16 +1,16 @@
 ---
-title: "Ultra-local model design based on real-time algebraic and derivative estimators for position control of a DC motor"
+title: "Neural Network"
 authors:
-- Laid Sehili
 - admin
+- Robert Ford
 author_notes:
-- ""
-- ""
-date: "2022-08-01T00:00:00Z"
-doi: " https://doi.org/10.1007/s40313-021-00881-z"
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-08-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,19 +18,23 @@ publishDate: "2022-08-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of control, automation and electrical systems, 33(1)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: This paper intends to study and implement recent state observation techniques of the ultra-local model used in model-free control approach in two different methodologies, through an ultra-local model-based algebraic estimator and using an ultra-local model-based derivative estimator. The estimation is based on Taylor’s expansion coefficients for an arbitrary order. This research serves a discrete implementation details of the proposed approach using operational calculus and finite impulse response filters. A comparative study between algebraic and derivative estimators is presented. Different tests have been verified on a position trajectory control scheme of a DC motor that is subjected to disturbances and uncertainties. 
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
 # Summary. An optional shortened abstract.
-summary: 
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
