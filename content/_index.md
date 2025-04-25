@@ -9,10 +9,11 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin 
   # PROJECTS
+  <!-- 
   - block: portfolio
     id: projects
     content:
@@ -44,6 +45,7 @@ sections:
       view: masonry #showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    -->
   # PUBLICATIONS
   - block: collection
     id: publications
