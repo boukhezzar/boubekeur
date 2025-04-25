@@ -10,7 +10,7 @@ author_notes:
 - ""
 - ""
 date: "2015-01-01T00:00:00Z"
-doi: "  https://doi.org/10.3991/ijim.v9i2.4382"
+doi: "https://doi.org/10.3991/ijim.v9i2.4382"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-01-01T00:00:00Z"
@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 publication: "*International Journal of Interactive Mobile Technologies (iJIM), 9*(2)"
 publication_short: ""
 
-abstract: In this paper, a remote temperature control system has been proposed. The physical system is controlled in real time through the Internet network. For educational purpose, the students use only a web browser to tune and test a PID controller via shared user interface. The PID parameters are calculated using the basic experimental Ziegler—Nichols tuning rules. After hardware and software experiment description, the remote online experiment is tested and the results are given.
+abstract: In this paper, a remote temperature control system has been proposed. The physical system is controlled in real time through the Internet network. For educational purpose, the students use only a web browser to tune and test a PID controller via shared user interface. The PID parameters are calculated using the basic experimental Ziegler-Nichols tuning rules. After hardware and software experiment description, the remote online experiment is tested and the results are given.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
