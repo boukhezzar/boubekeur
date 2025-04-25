@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Giacomo Dalla Chiara
+title: Boubekeur Boukhezzar
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Bubker Boukhezzar'
 
 # Full name (for SEO)
 first_name: Boubekeur
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Washington
+  - name: University of Constantine
   - name: Urban Freight Lab
     url: ''
 
@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Engineering Systems Design
+    - course: PhD in Automatic Control
       institution: Singapore University of Technology & Design
       year: 2018
     - course: MSc in Statistics
