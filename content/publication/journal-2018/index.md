@@ -1,16 +1,16 @@
 ---
-title: "Ultra-local model design based on real-time algebraic and derivative estimators for position control of a DC motor"
+title: "Nonlinear predictive control of a DFIG-based wind turbine for power capture optimization"
 authors:
-- Laid Sehili
+- Abdeldjebar Bektache
 - admin
 author_notes:
 - ""
 - ""
-date: "2018-10-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.ijepes.2018.03.012"
+date: "2022-09-01T00:00:00Z"
+doi: " https://doi.org/10.1007/s40313-021-00881-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-10-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,10 +18,10 @@ publishDate: "2018-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of control, automation and electrical systems, 101*"
+publication: "*International journal of electrical power & Energy systems, 33*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:A nonlinear predictive controller is proposed for a variable speed wind turbine. The objective is power capture optimization and transient loads reduction. The controller acts only on low wind speed area. It consists of a doubly fed induction generator controller coupled with a model predictive aeroturbine controller. Unlike the majority of existing work on DFIG, the nonlinear controller deals directly with the generator model without any simplifying assumptions. This makes it possible to remove some assumptions on the DFIG model. The nonlinear DFIG controller achieves asymptotic torque and flux tracking. For the aeroturbine part, the model predictive controller uses predictions of the output to compute the optimal control sequence. It makes a compromise between power capture optimization and loads reduction. The controllers design procedure is detailed. The global controller is tested with the parameters of a real experimental variable speed wind turbine. It is compared with PID and LQG controllers. The simulations show satisfactory results in comparison with these schemes. The proposed controller achieves better power capture optimization and load reduction. It therefore allows a good achievement of the design objectives. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
