@@ -3,7 +3,7 @@
 title: Boubekeur Boukhezzar
 
 # Name pronunciation (optional)
-name_pronunciation: 'Bubker Boukhezzar'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Boubekeur
