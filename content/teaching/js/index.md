@@ -9,22 +9,19 @@ tags:
 image:
   caption: ''
 ---
+## Syllabus
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+you can download the course syllabus [here](Programme-SNL.pdf).
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## Videos
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+**Nonlinear Systems Course Videos**
 
-## Video
+{{< youtube M1HCZfEj2Ck >}}
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+**Homework Solutions Videos**:
 
-{{< youtube D2vj0WcvH5c >}}
-
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
+    {{< youtube d1_ucV-CT6o >}}
 
 **Bilibili**:
 
