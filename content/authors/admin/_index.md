@@ -63,10 +63,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/- icon: linkedin
-  - icon: youtube
-    icon_pack: fas
-    link: https://www.youtube.com/@boubekeurboukhezzar3730
-
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
