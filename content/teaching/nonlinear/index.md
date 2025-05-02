@@ -19,7 +19,7 @@ you can download the course syllabus [here](Programme-SNL.pdf).
 
 {{< youtube M1HCZfEj2Ck >}}
 
-**Homework Solutions Videos**:
+**Homework Solutions Videos**
 
     {{< youtube d1_ucV-CT6o >}}
 
