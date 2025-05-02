@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Nonlinear Systems
+summary: Introduction to nonlinear systems analysis and control.
+date: 2025-05-02
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Nonlinear
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
