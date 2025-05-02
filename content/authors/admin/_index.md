@@ -23,7 +23,7 @@ role: Full Professor
 organizations:
   - name: University of Constantine
   - name: LARC Laboratory
-    url: 'https://www.umc.edu.dz/index.php/en'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonlinear control, wind turbines and ilabs.
@@ -62,15 +62,7 @@ social:
     link: https://scholar.google.fr/citations?user=x5Oo_jEAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/- icon: linkedin
-    icon_pack: fab
     link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/@boubekeurboukhezzar3730
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-5716-7114
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -82,9 +74,9 @@ social:
 highlight_name: true
 ---
 
-I am a full professor at Constantine 1 University  [Constantine 1 university](https://www.umc.edu.dz/index.php/en) and a member of the [Laboratoire d'Automatique et Robotique de Constantine (LARC)](https://www.supply-chain-transportation.uw.edu/). My research is focused on advanced control systems, which I apply to renewable energy systems, electrical drives, among others.
+I am a full professor at [Constantine University](https://www.umc.edu.dz/index.php/en) [Urban Freight Lab](https://urbanfreightlab.com/) and an affiliate instructor at the [Supply Chain Transportation and Logistics MSc program](https://www.supply-chain-transportation.uw.edu/). My research is focused on human behaviors in urban logistic systems, which I apply to urban transport planning, multimodal transportation, freight operations, infrastructure management, and food systems, among others.
 
-I completed my PhD in Automatic Control and Signal Processing  in 2006 at [Paris-Saclay university](https://www.universite-paris-saclay.fr/en) and [Centrale-Supélec](https://www.centralesupelec.fr/).  
+I completed my PhD in Engineering Systems Design in 2018 at the [Singapore University of Technology and Design](https://esd.sutd.edu.sg/) and spent a year as a visiting researcher at the [MIT Intelligent Transportation System Lab](https://www.its.mit.edu/). I hold an MSC in Computational Statistics ([ETH Zurich](https://math.ethz.ch/sfs)) and a BSc in Economics and Business ([LUISS](https://economiaefinanza.luiss.it/)).
 
 
 
