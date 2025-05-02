@@ -75,11 +75,13 @@ highlight_name: true
 ---
 
 
-I am a full professor at Constantine 1 University  [Constantine 1 university](https://www.umc.edu.dz/index.php/en) and a member of the Laboratoire d'Automatique et Robotique de Constantine (LARC). My research is focused on advanced control systems, which I apply to renewable energy systems, electrical drives, among others.
+I am a full professor at [Constantine 1 university](https://www.umc.edu.dz/index.php/en) and a member of the Laboratoire d'Automatique et Robotique de Constantine (LARC). My research is focused on advanced control systems, which I apply to renewable energy systems, electrical drives, among others.
 
 I completed my PhD in Automatic Control and Signal Processing  in 2006 at [Paris-Saclay university](https://www.universite-paris-saclay.fr/en) and [Centrale-Supélec](https://www.centralesupelec.fr/). 
 
-I completed my PhD in Engineering Systems Design in 2018 at the [Singapore University of Technology and Design](https://esd.sutd.edu.sg/) and spent a year as a visiting researcher at the [MIT Intelligent Transportation System Lab](https://www.its.mit.edu/). I hold an MSC in Computational Statistics ([ETH Zurich](https://math.ethz.ch/sfs)) and a BSc in Economics and Business ([LUISS](https://economiaefinanza.luiss.it/)).
+From 2006 to 2008, I was an associate Professor at [Université Caen Normandie](https://welcome.unicaen.fr/). During 2009, I was Post-Doctoral fellow at [Automatic control Department, Supélec](https://l2s.centralesupelec.fr/en/).
+
+I hold an MSC in Automatic Control from ([Paris-Saclay University](https://www.universite-paris-saclay.fr/)) and a MEng in Electrical engineering from [Béjaïa University](https://univ-bejaia.dz/en/).
 
 
 
