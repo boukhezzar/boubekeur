@@ -1,13 +1,13 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Advanced Control Strategies
+summary: Non-conventional controllers design
+date: 2025-05-02
 type: docs
 math: false
 tags:
-  - Python
+  - Adaptive, Predictive, Optimal
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
