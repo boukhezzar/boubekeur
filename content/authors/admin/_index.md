@@ -23,7 +23,7 @@ role: Full Professor
 organizations:
   - name: University of Constantine
   - name: LARC Laboratory
-    url: ''
+    url: 'https://www.umc.edu.dz/index.php/en'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonlinear control, wind turbines and ilabs.
@@ -62,7 +62,13 @@ social:
     link: https://scholar.google.fr/citations?user=x5Oo_jEAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
+    link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/- icon: linkedin
+    icon_pack: fab
     link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@boubekeurboukhezzar3730
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
