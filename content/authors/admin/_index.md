@@ -64,7 +64,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/- icon: linkedin
   - icon: youtube
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.youtube.com/@boubekeurboukhezzar3730
 
   # Link to a PDF of your resume/CV.
