@@ -63,8 +63,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/- icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/boubekeur-boukhezzar-99247a67/en/
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@boubekeurboukhezzar3730
