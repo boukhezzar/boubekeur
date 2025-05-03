@@ -44,9 +44,8 @@ you can download the course notes [here](Cours-snl-2025.pdf) in PDF format or [h
 ## Recommanded books
 Here are some recommended textbooks.
 
-| Description                                                                 | Image                             |
-|------------------------------------------------------------------------------|------------------------------------|
-| **Title   :** Nonlinear systems, 3rd edition <br>**Author  :** Hassan Khalil<br>**Editor  :** Prentice Hall | ![Image](khalil_book.jpg) |
+
+| **Title   :** Nonlinear systems, 3rd edition <br>**Author  :** Hassan Khalil<br>**Editor  :** Prentice Hall | ![Image](khalil_book_small.jpg) |
 
 <!-- **Bilibili**:
 
