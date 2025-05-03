@@ -18,24 +18,38 @@ you can download the course syllabus [here](Programme-SNL.pdf).
 ### Nonlinear Systems Course Videos
 
 {{< youtube M1HCZfEj2Ck >}}
+
 {{< youtube wxuzbj1Zdv0 >}}
+
 {{< youtube d2kk586qefw >}}
+
 {{< youtube Sfs7_x59A74 >}}
+
 {{< youtube STMS2p21oSs >}}
+
 {{< youtube RnTC7o_5WUE >}}
 
 
 ### Homework Solutions Videos
 
 {{< youtube d1_ucV-CT6o >}}
+
 {{< youtube 1UoyRwLsyd8 >}}
+
 {{< youtube MzYFWc71up0 >}}
+
 {{< youtube HM6Bj8nV1uE >}}
+
 {{< youtube TvnRGsWBqdI >}}
+
 {{< youtube tbO24feJJWg >}}
+
 {{< youtube cy3hyNVd-uc >}}
+
 {{< youtube YcIWzofne3I >}}
+
 {{< youtube Txr5DhcwzhA >}}
+
 {{< youtube 2lexXdjyWWU >}}
 
 ## Course notes
@@ -47,6 +61,16 @@ Here are some recommended textbooks.
 
 | **Title   :** Nonlinear systems, 3rd edition <br>**Author  :** Hassan Khalil<br>**Editor  :** Prentice Hall | ![Image](khalil_book_small.jpg) |
 
+<table style="border: none;">
+  <tr>
+    <td>
+<strong>Title   :</strong>Nonlinear systems, 3rd edition <br><strong>Author  :</strong> Hassan Khalil<br><strong>Editor  :</strong> Prentice Hall 
+    </td>
+    <td>
+      <img src="khalil_book_small.jpg" alt="Image">
+    </td>
+  </tr>
+</table>
 <!-- **Bilibili**:
 
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
