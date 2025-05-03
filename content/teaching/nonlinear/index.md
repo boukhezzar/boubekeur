@@ -61,16 +61,63 @@ Here are some recommended textbooks.
 
 | **Title   :** Nonlinear systems, 3rd edition <br>**Author  :** Hassan Khalil<br>**Editor  :** Prentice Hall | ![Image](khalil_book_small.jpg) |
 
-<table style="border: none;">
-  <tr>
-    <td>
-<strong>Title   :</strong>Nonlinear systems, 3rd edition <br><strong>Author  :</strong> Hassan Khalil<br><strong>Editor  :</strong> Prentice Hall 
-    </td>
-    <td>
-      <img src="khalil_book_small.jpg" alt="Image">
-    </td>
-  </tr>
-</table>
+  <table style="width: 100%;" border="0">
+      <tbody>
+        <tr>
+          <td style="width: 396px;"><b>Title &nbsp;&nbsp;&nbsp; :&nbsp; </b>Nonlinear
+            systems, 3rd edition<br>
+            <b>Author :&nbsp; </b>Hassan Khalil<br>
+            <b>Editor&nbsp; :&nbsp; </b>Prentice Hall<br>
+            <b>Year &nbsp;&nbsp;&nbsp; :&nbsp; </b>2001</td>
+          <td style="width: 396px; text-align: center;"><img src="khalil_book_small.jpg"
+
+              alt="khalil book"><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 <!-- **Bilibili**:
 
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
