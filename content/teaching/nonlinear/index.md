@@ -18,12 +18,37 @@ you can download the course syllabus [here](Programme-SNL.pdf).
 ### Nonlinear Systems Course Videos
 
 {{< youtube M1HCZfEj2Ck >}}
+{{< youtube wxuzbj1Zdv0 >}}
+{{< youtube d2kk586qefw >}}
+{{< youtube Sfs7_x59A74 >}}
+{{< youtube STMS2p21oSs >}}
+{{< youtube RnTC7o_5WUE >}}
+
 
 ### Homework Solutions Videos
 
-    {{< youtube d1_ucV-CT6o >}}
+{{< youtube d1_ucV-CT6o >}}
+{{< youtube 1UoyRwLsyd8 >}}
+{{< youtube MzYFWc71up0 >}}
+{{< youtube HM6Bj8nV1uE >}}
+{{< youtube TvnRGsWBqdI >}}
+{{< youtube tbO24feJJWg >}}
+{{< youtube cy3hyNVd-uc >}}
+{{< youtube YcIWzofne3I >}}
+{{< youtube Txr5DhcwzhA >}}
+{{< youtube 2lexXdjyWWU >}}
 
-**Bilibili**:
+## Course notes
+you can download the course notes [here](Cours-snl-2025.pdf) in PDF format or [here](Cours-snl-2025.ps) in PostScript format.
+
+## Recommanded books
+Here are some recommended textbooks.
+**Title   :** Nonlinear systems, 3rd edition
+**Author  :** Hassan Khalil
+**Editor  :** Prentice Hall
+![Image](khalil_book.jpg)
+
+<!-- **Bilibili**:
 
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
 
@@ -134,4 +159,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
