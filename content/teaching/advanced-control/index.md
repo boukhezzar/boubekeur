@@ -17,7 +17,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+Advanced control Strategies videos (in french) :
 
 {{< youtube D2vj0WcvH5c >}}
 
