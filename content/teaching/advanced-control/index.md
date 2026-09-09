@@ -1,15 +1,16 @@
 ---
 title: Advanced Control Strategies
-summary: In this course, three advanced control strategies are introduced : Adaptive control, predictive control and optimal control. 
-date: 2026-09-09
+summary: Non-conventional controllers
+date: 2025-05-02
 type: docs
-math: true
+math: false
 tags:
   - Adaptive, Predictive, Optimal
 image:
   caption: ''
 ---
-Here are the course slides 
+
+[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
@@ -17,7 +18,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Video
 
-Advanced control Strategies videos (in french) :
+Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
 {{< youtube D2vj0WcvH5c >}}
 
@@ -29,9 +30,9 @@ Advanced control Strategies videos (in french) :
 
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
 
-**Course videos**
+**Video file**
 
-Videos may be added ()  to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
