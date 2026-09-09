@@ -1,16 +1,15 @@
 ---
 title: Advanced Control Strategies
-summary: Non-conventional controllers design
-date: 2025-05-02
+summary: In this course, three advanced control strategies are introduced : Adaptive control, predictive control and optimal control. 
+date: 2026-09-09
 type: docs
-math: false
+math: true
 tags:
   - Adaptive, Predictive, Optimal
 image:
   caption: ''
 ---
-
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+Here are the course slides 
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
