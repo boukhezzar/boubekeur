@@ -31,7 +31,7 @@ Advanced control Strategies videos (in french) :
 
 **Video file**
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+Videos may be added ()  to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
