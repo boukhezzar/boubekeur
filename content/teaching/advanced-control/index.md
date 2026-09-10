@@ -35,10 +35,13 @@ Chapter 1:
 Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
-## Course Notes
+## Course Slides
 - [Chapitre 1 : Rappels et compléments sur les systèmes échantillonnés](Slides-chapitre1-comav-2021.pdf)
 - [Chapitre 2 : Commande adaptative par modèle de référence](Slides-chapitre2-comav-2021.pdf)
-
+- [Chapitre 3 : Commande par régulateur auto-ajustable](Slides-chapitre3-comav-2021.pdf)
+- [Chapitre 4 : Commande prédictive](Slides-chapitre4-comav-2021.pdf)
+- [Chapitre 5 : Commande prédictive dans l'espace d'état](Slides-chapitre5-comav-2021.pdf)
+- [Chapitre 6 : Commande optimale](Slides-chapitre6-comav-2021.pdf)
 ## Podcast
 
 You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
