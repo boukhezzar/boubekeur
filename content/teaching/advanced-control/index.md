@@ -18,19 +18,13 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Course Videos
 
-Chapter 1:
+Chapter 1 : Rappels et compléments sur les systèmes échantillonnés
 
 {{< youtube mkIDET-niwY >}}
 
-Chapter 2:
+Chapter 2 : Commande adaptative par modèle de référence
 
-{{< youtube rxmvVjVltNs >}}
-Chapter 3:
-
-{{< youtube uaqwPsOmMxM >}}
-Chapter 4:
-
-{{< youtube mkIDET-niwY >}}
+{{< youtube MDNLDyZDPto >}}
 
 
 
