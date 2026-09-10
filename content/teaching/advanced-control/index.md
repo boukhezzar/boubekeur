@@ -16,11 +16,11 @@ Three control strategies are introduced : Adaptive, Predictive, Optimal.
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
-## Video
+## Course Videos
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+Chapter 1:
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube PLzN4qQIMiIY8q >}}
 
 **Youtube**:
 
