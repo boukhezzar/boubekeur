@@ -67,9 +67,7 @@ Here are some recommended textbooks.
             <b>Author :&nbsp; </b>Hassan Khalil<br>
             <b>Editor&nbsp; :&nbsp; </b>Prentice Hall<br>
             <b>Year &nbsp;&nbsp;&nbsp; :&nbsp; </b>2001</td>
-          <td style="width: 396px; text-align: center;"><img src="khalil_book_small.jpg"
-
-              alt="khalil book"><br>
+          <td style="width: 396px; text-align: center;"><img src="khalil_book_small.jpg">
           </td>
         </tr>
       </tbody>
