@@ -22,7 +22,16 @@ Chapter 1:
 
 {{< youtube mkIDET-niwY >}}
 
-[![Advanced Control Playlist](https://youtube.com)](https://youtube.com)
+Chapter 2:
+
+{{< youtube rxmvVjVltNs >}}
+Chapter 3:
+
+{{< youtube uaqwPsOmMxM >}}
+Chapter 4:
+
+{{< youtube mkIDET-niwY >}}
+
 
 
 **Youtube**:
