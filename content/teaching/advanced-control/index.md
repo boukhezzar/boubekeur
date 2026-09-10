@@ -36,8 +36,8 @@ Videos may be added to a page by either placing them in your `assets/media/` med
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 ## Course Notes
-[Chapitre 1 : Rappels et compléments sur les systèmes échantillonnés](Slides-chapitre1-comav-2021.pdf)
-
+- [Chapitre 1 : Rappels et compléments sur les systèmes échantillonnés](Slides-chapitre1-comav-2021.pdf)
+- [Chapitre 2 : Commande adaptative par modèle de référence](Slides-chapitre2-comav-2021.pdf)
 
 ## Podcast
 
