@@ -7,7 +7,7 @@ math: false
 tags:
   - Adaptive, Predictive, Optimal
 image:
-  caption: 'Advanced Control Strategies'
+  caption: ''
 ---
 
 Three control strategies are introduced : Adaptive, Predictive, Optimal.
