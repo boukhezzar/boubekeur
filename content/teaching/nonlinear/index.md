@@ -3,7 +3,7 @@ title: Nonlinear Systems
 summary: Introduction to nonlinear systems analysis and control.
 date: 2025-05-02
 type: docs
-math: false
+math: true
 tags:
   - Nonlinear
 image:
@@ -12,8 +12,6 @@ image:
 ## Syllabus
 
 you can download the course syllabus [here](Programme-SNL.pdf).
-
-## Videos
 
 ### Nonlinear Systems Course Videos
 
@@ -72,48 +70,6 @@ Here are some recommended textbooks.
           <td style="width: 396px; text-align: center;"><img src="khalil_book_small.jpg"
 
               alt="khalil book"><br>
-          </td>
-        </tr>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
           </td>
         </tr>
       </tbody>
