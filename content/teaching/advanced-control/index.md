@@ -3,7 +3,7 @@ title: Advanced Control Strategies
 summary: Non-conventional controllers
 date: 2025-05-02
 type: docs
-math: false
+math: true
 tags:
   - Adaptive, Predictive, Optimal
 image:
