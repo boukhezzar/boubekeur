@@ -22,6 +22,9 @@ Chapter 1:
 
 {{< youtube mkIDET-niwY >}}
 
+[![Advanced Control Playlist](https://youtube.com)](https://youtube.com)
+
+
 **Youtube**:
 
     {{</* youtube w7Ft2ymGmfc */>}}
@@ -40,8 +43,8 @@ Videos may be added to a page by either placing them in your `assets/media/` med
 - [Chapitre 2 : Commande adaptative par modèle de référence](Slides-chapitre2-comav-2021.pdf)
 - [Chapitre 3 : Commande par régulateur auto-ajustable](Slides-chapitre3-comav-2021.pdf)
 - [Chapitre 4 : Commande prédictive](Slides-chapitre4-comav-2021.pdf)
-- [Chapitre 5 : Commande prédictive dans l'espace d'état](Slides-chapitre5-comav-2021.pdf)
-- [Chapitre 6 : Commande optimale](Slides-chapitre6-comav-2021.pdf)
+- [Chapitre 5 : Commande prédictive dans l'espace d'état](Slides-chapitre5-comav-2022.pdf)
+- [Chapitre 6 : Commande optimale](Slides-chapitre6-comav-2022.pdf)
 ## Podcast
 
 You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
