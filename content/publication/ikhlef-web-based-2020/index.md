@@ -1,46 +1,76 @@
 ---
-title: Web-Based Robotics Remote LAb
+title: WEB-BASED ROBOTICS REMOTE LAB
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - A. Ikhlef
 - B. Boukhezzar
 - N. Mansouri
-date: '2020-01-01'
-publishDate: '2025-05-02T11:20:19.711547Z'
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
+date: 2020-None-01
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2026-09-11T15:55:00.345105Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
+
+# Publication name and optional abbreviated publication name.
 publication: '*EDULEARN20 Proceedings*'
+publication_short: ''
+
 doi: 10.21125/edulearn.2020.1618
-abstract: "Experiments lab occupies a very important place in the learning methodologies.
-  In the engineering fields, the students pass a large part of their time in these
-  labs. However, the achievement of the practical experiments requires in the most
-  cases expensive equipment such as: measuring instruments, acquisition cards, computing
-  stations, â\x80¦etc. on the other hand, the considerable increase of the student
-  number needs the duplication of experiment work stations. This contributed also
-  to increase the experiments global cost. In this case the majority of educational
-  institutions suffer in front of this logistical problem. Therefore, the remote labs
-  give a practical solution to this problem. They allow sharing the same experiment
-  lab to a larger number of students. Moreover, they give a remote access to hardware
-  experiments without the necessity of people displacement. So, they lead to save
-  the time and reduce inactivity days. Remote labs capitalize the large diffusion
-  of the Internet over the world. Essentially, they exploit web-based platforms to
-  give an interactive interface to the users. This interface interacts directly with
-  the remote hardware.  In this work, an automatic control lab for robotics education
-  is mounted and tested. The remote lab deals with physical experiments on undergraduate
-  level for automatic control. The whole architecture of the remote lab is based on
-  ISA architecture. The main objective of this work is to teach students the basic
-  principles of modeling and control of the robot manipulators.  The platform allows
-  the client or the student to access through his account in order to: make reservation,
-  launch the experiment and view experiment storage results. The student manipulates
-  the experiment via a developed graphical user interface GUI based on LabVIEW environment.
-  This GUI has two control modes for this robot manipulator; point-to-point control
-  and trajectory control. During the experiment, the student can visualize in real
-  time the robot's movement via an IP camera.  Moreover, the GUI displays in real
-  time the Cartesian coordinates of the end effector position and the joint angles
-  corresponding to this position. the student can also enter the values of the desired
-  points or trajectories on which he wants to control his robot. The GUI has been
-  designed to help students to fully understand the control technique of arm robot
-  as well as the interest of using the direct and the inverse kinematic model."
+
+abstract: ''
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 links:
 - name: URL
-  url: https://library.iated.org/view/IKHLEF2020WEB
+  url: https://doi.org/10.21125/edulearn.2020.1618
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

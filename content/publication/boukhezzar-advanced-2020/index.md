@@ -1,32 +1,75 @@
 ---
-title: Advanced Automatic control Remote Lab
+title: ADVANCED AUTOMATIC CONTROL REMOTE LAB
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - B. Boukhezzar
 - A. Ikhlef
-date: '2020-01-01'
-publishDate: '2025-05-02T11:20:19.720372Z'
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
+date: 2020-None-01
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2026-09-11T15:55:00.355610Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
+
+# Publication name and optional abbreviated publication name.
 publication: '*INTED2020 Proceedings*'
+publication_short: ''
+
 doi: 10.21125/inted.2020.2355
-abstract: 'In this work, a complete remote lab for automatic control is designed and
-  implemented with many experiments. It allows remote users to do physical experiment
-  and instructors to personalize their experiments and evaluate the remote students.  The
-  remote lab is composed of software and hardware devices : The iLab (internet Laboratory)
-  environment is used as a deployment platform for our Remote Lab. It is installed
-  on a server machine at Constantine 1 university, Algeria. It is compatible with
-  LabVIEW and web browsers. The remote end-user needs only a web-browser and an installed
-  plug-in to access to all the Remote Lab physical experiments via a GUI.  Many experimental
-  setups are mounted. They give a practical aspect to theorical course followed by
-  the students. The implemented control strategies are : 1. Optimal control, 2. Polynomial
-  control, 3. State space control.  A classical PI/PID control strategy is added to
-  serve as reference for comparison. Once logged, the user can choose an experiment
-  and ask for a reservation time to lead the experiment. The user can then launch
-  the experiment directly from its web-browser. At the end of the experiment, all
-  the data generated during it are stored in the server. The data can be downloaded
-  by the user and the instructor for analysis and evaluation. The instructor can also
-  consult a journal including students connections history.'
+
+abstract: ''
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 links:
 - name: URL
-  url: https://library.iated.org/view/BOUKHEZZAR2020ADV
+  url: https://doi.org/10.21125/inted.2020.2355
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
