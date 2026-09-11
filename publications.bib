@@ -1,15 +1,15 @@
-@article{boufrioua_robust_2026,
-title = {Robust tube-based economic model predictive control of nonlinear systems using linear parameter varying approach},
-journal = {Journal of the Franklin Institute},
-volume = {363},
-number = {3},
+@article{sehili_algebraic_2026,
+title = {Algebraic estimation-based model-free control for variable-speed wind turbines},
+journal = {Franklin Open},
+volume = {15},
+pages = {100570},
 year = {2026},
-issn = {0016-0032},
-doi = {https://doi.org/10.1016/j.jfranklin.2026.108409},
-url = {https://www.sciencedirect.com/science/article/pii/S0016003226000098},
-author = {Heithem Boufrioua and Boubekeur Boukhezzar and Vicenç Puig},
-keywords = {Input-to-state stability, Recursive feasibility, Robust economic model predictive control, Zonotopes, Gain scheduling, Linear parameter-varying approach},
-abstract = {Model Predictive Control (MPC) has become a powerful framework for optimizing system performance under constraints. However, when applied to nonlinear systems subject to unknown but bounded uncertainties (UBB), conventional MPC approaches face significant challenges related to computational complexity and robustness. This paper proposes a robust tube-based economic model predictive control (REMPC) method using a linear parameter-varying (LPV) approach for nonlinear systems with unknown but bounded uncertainty, based on nominal predictions. Using a nonlinear embedding approach, the nonlinear model is transformed into an LPV model. The optimal states and inputs found from solving the previous optimization problem are used to estimate the scheduling variables along the prediction horizon while executing the receding horizon strategy. This approach converts the nonlinear optimization problem into a quadratic optimization problem, effectively reducing computational time by leveraging the efficiency inherent in the LPV formulation. Recursive feasibility and input-to-state stability are guaranteed. Recursive feasibility is ensured by tighter constraints, which are computed online using a zonotopic approach based on the disturbance reachable sets. A gain-scheduling H∞ controller is employed as the local controller to further tighten these constraints. The stability of the proposed approach is ensured by forcing the terminal state to converge towards the optimal equilibrium or working point of the system. Moreover, the terminal constraint is relaxed by using a constraint set around the terminal state instead of a constraint value and adding a penalty on the terminal state in the cost function. Additionally, strict dissipativity is established as a sufficient condition to prove stability. Finally, the effectiveness of the LPV-based REMPC strategy is demonstrated by controlling an isothermal Continuous Stirred Tank Reactor (CSTR), and an REMPC-LPV-based planning approach for a 1/10 scale autonomous remote-controlled (RC) electric car is also tested through simulations.}
+issn = {2773-1863},
+doi = {https://doi.org/10.1016/j.fraope.2026.100570},
+url = {https://www.sciencedirect.com/science/article/pii/S2773186326000861},
+author = {Laid Sehili and Boubekeur Boukhezzar and Cedric Join},
+keywords = {Wind power system, Algebraic estimation, Model-free control, Intelligent PID, Variable speed/pitch wind-turbine},
+abstract = {This research study validates the recently invented Model-free Control (MFC) approach via algebraic estimation to a variable-speed wind turbine. Instead of counting on adaption rules or neural networks, this novel technique employs an ultra-local model for rapid algebraic parameter estimation, requiring no statistical expertise about system models, disturbances, or interdependence between inputs and outputs. In low-speed winds, a model-free controller is designed based on a wind estimator to track the optimum value of power coefficients. In high-speed winds, MFC is extended to a multi-variable model-free controller (MV MFC) in pitch and torque to regulate the produced power around its nominal value. The approach’s key advantage lies in eliminating complex non-linear models, ensuring stability, and reducing non-linearities, uncertainties, and perturbations. The controllers have been tested with a wind turbine mathematical model and validated with FAST simulator in the presence of measurement noise and disturbances. The results show the proposed controller’s superiority over the existing techniques and improvement of power capture.}
 }
 
 
